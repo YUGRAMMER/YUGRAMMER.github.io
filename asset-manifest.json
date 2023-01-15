@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/YUGRAMMER/YUGRAMMER.github.io.git/static/css/main.e0395622.css",
-    "main.js": "/YUGRAMMER/YUGRAMMER.github.io.git/static/js/main.a7664cec.js",
-    "index.html": "/YUGRAMMER/YUGRAMMER.github.io.git/index.html",
-    "main.e0395622.css.map": "/YUGRAMMER/YUGRAMMER.github.io.git/static/css/main.e0395622.css.map",
-    "main.a7664cec.js.map": "/YUGRAMMER/YUGRAMMER.github.io.git/static/js/main.a7664cec.js.map"
+    "main.css": "/static/css/main.e0395622.css",
+    "main.js": "/static/js/main.a7664cec.js",
+    "index.html": "/index.html",
+    "main.e0395622.css.map": "/static/css/main.e0395622.css.map",
+    "main.a7664cec.js.map": "/static/js/main.a7664cec.js.map"
   },
   "entrypoints": [
     "static/css/main.e0395622.css",
